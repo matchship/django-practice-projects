@@ -17,7 +17,7 @@ First, create a new folder/directory for the project.
 Now, inside the newly created folder, open terminal -> [Alt + D -> type 'cmd']
 
 **In the terminal, type the command:**
-_uv venv_
+_python -m venv .venv_
 
 Now activate the environment with the command:
 
